@@ -84,7 +84,7 @@ def game_hash
         :blocks => 12
         :slam_dunks => 7}, 
         {
-        :player_name => "Brook Lopez"
+        :player_name => "DeSagna Diop"
         :number => 11
         :shoe => 17
         :points => 17
